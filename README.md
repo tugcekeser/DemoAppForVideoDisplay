@@ -9,8 +9,9 @@ Submitted by: **Rabia Tugce Keser**
 
 
 ## Video Walkthrough 
-https://www.dropbox.com/s/h1y4kp83wz6ifkb/Demoapp.mp4?dl=0
-Demo:
+
+Demo: https://www.dropbox.com/s/h1y4kp83wz6ifkb/Demoapp.mp4?dl=0
+
 
 ## Notes
 
