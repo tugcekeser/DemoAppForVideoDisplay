@@ -1,4 +1,4 @@
-# DemoAppForVideoDisplay 
+# Demo App For Video Display 
 
 Submitted by: **Rabia Tugce Keser**
 
