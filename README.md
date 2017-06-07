@@ -1,4 +1,4 @@
-# Demo App For Video Display 
+# Kamcord 
 
 Submitted by: **Rabia Tugce Keser**
 
